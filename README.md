@@ -1,2 +1,2 @@
 # firebase-crud-app
-a poc of a node + react crud app using firebase
+a poc of a node crud app using firebase
